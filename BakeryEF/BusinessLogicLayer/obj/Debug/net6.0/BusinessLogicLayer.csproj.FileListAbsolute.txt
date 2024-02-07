@@ -1,0 +1,17 @@
+D:\.NET\BakeryEF\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\.NET\BakeryEF\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
+D:\.NET\BakeryEF\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\.NET\BakeryEF\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\.NET\BakeryEF\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\.NET\BakeryEF\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\.NET\BakeryEF\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll

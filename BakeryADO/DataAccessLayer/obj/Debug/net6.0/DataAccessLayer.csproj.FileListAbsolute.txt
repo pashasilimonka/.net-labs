@@ -1,0 +1,12 @@
+D:\.NET\BakeryADO\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\.NET\BakeryADO\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\.NET\BakeryADO\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\.NET\BakeryADO\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
